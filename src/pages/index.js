@@ -40,7 +40,7 @@ export default function Home() {
 
                 </div>
                 <ul class="links">
-                    <Link to = "/about"><li>About</li></Link>
+                    <Link to = "/about.js"><li>About</li></Link>
                     <li>Projects</li>
                     <li>Skills</li>
                     <li>Experiences</li>
