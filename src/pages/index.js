@@ -40,7 +40,7 @@ export default function Home() {
 
                 </div>
                 <ul class="links">
-                    <li>About</li>
+                    <Link to = "/about"><li>About</li></Link>
                     <li>Projects</li>
                     <li>Skills</li>
                     <li>Experiences</li>
